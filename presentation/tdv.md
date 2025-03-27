@@ -23,7 +23,6 @@
 - Evénements dataviz
 - Sensibilisations
 - Newsletters 
-- Offres de services
 
 ---
 
@@ -42,21 +41,19 @@ Concours HACKAVIZ
 
 > Raconter une histoire avec des graphiques
 
-<img height="200" src="https://toulousedataviz.github.io/presentation/image/all_hackaviz.jpg" style="border:0;box-shadow:none"><br>
-
 ---
 
 ## HACKAVIZ
 
 - Jeu de données open data original
-- Une création, en solo ou en équipe en 10 jours
+- Une création, en solo ou en équipe en 10(14) jours
 - Grande soirée de remise des prix : Hackaviz party
 
 ---
 
 ## HACKAVIZ
 
-<img width="600" src="https://toulousedataviz.github.io/presentation/image/hackaviz_2018-2024.jpg" style="border:0;box-shadow:none">
+<img width="600" src="https://toulousedataviz.github.io/presentation/image/hackaviz_2018-2025.png" style="border:0;box-shadow:none">
 
 ---
 
@@ -65,24 +62,14 @@ Concours HACKAVIZ
 - Universités et entreprises
   > S'initier à l'analyse et <br/> à la visualisation de données
 - Collèges - Parcours Laïque et Citoyen du CD31
-  > Interventions auprès des collèges depuis 4 ans (14 interventions - 350 collégiens)  
-
----
-
-## OFFRE DE SERVICES
-
-- Sensibilisation à la dataviz
-- Hackaviz sur mesure
-- Préparation de données
-- Réalisation de visualisation
-  > [Nos offres](https://toulouse-dataviz.fr/offres)
+  > Interventions auprès des collèges depuis 5 ans (18 interventions - 450 collégiens)  
 
 ---
 ## UN SITE INTERNET 
 
 - Evénements (Présentations / Vidéos / photos)
-- Guide de la datavisualisation
-- Newsletters
+- [Guide de la datavisualisation](https://toulouse-dataviz.notion.site/4cea244c76d0407b9722d300e798a3c2?v=f3b7a520de214623a766a5b68456097b)
+- [Newsletters](https://ressources.toulouse-dataviz.fr/)
 - Ressources (livres / sélections de dataviz)
 - Liens pour nous retrouvez
 
@@ -127,9 +114,11 @@ On aime bien:
 ---
 ## REJOIGNEZ L'EQUIPE D'ANIMATION
 
-- Une experience enrichissante à la fois sur le plan personnel et professionnel.
-- Une opportunité pour développer vos compétences.
+- Un travail en équipe enrichissant 
+- Une opportunité pour développer et valoriser vos compétences.
 - La fierté d'appartenir à une communauté unique.
+- Pas besoin d'être un expert de la dataviz
+- Quelques heures tous les mois...  
 
 ---
 
@@ -147,8 +136,8 @@ On aime bien:
 
 ## NOUS RETROUVER !
 
-|                                                              <small>Toulouse DataViz </small>                                                              |                                                                         <small>Twitter</small>                                                                         |                                                                                                                                                                               <small>Meetup</small> |                                                                                   <small>YouTube</small>                                                                                    |                                                                        <small>Discord</small>                                                                         |
+|                                                              <small>Toulouse DataViz </small>                                                              |                                                                         <small>Bluesky</small>                                                                         |                                                                                                                                                                               <small>Meetup</small> |                                                                                   <small>YouTube</small>                                                                                    |                                                                        <small>Discord</small>                                                                         |
 | :--------------------------------------------------------------------------------------------------------------------------------------------------------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------: | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| [<img height="80" src="https://toulousedataviz.github.io/presentation/image/Logo_TDV_4.png" style="border:0;box-shadow:none">](http://toulouse-dataviz.fr) | [<img height="80" src="https://toulousedataviz.github.io/presentation/image/logo-twitter-rond.png" style="border:0;box-shadow:none">](https://twitter.com/Tls_dataviz) | [<img height="80" src="https://toulousedataviz.github.io/presentation/image/meetup.png" style="border:0;box-shadow:none">](https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/) | [<img height="80" src="https://toulousedataviz.github.io/presentation/image/youtube.jpg" style="border:0;box-shadow:none">](https://www.youtube.com/channel/UCo64gnxLZs1xIN-Y0Bv_Hpg/about) | [<img height="80" src="https://toulousedataviz.github.io/presentation/image/Discord-Logo-Color.png" style="border:0;box-shadow:none">](https://discord.gg/Ch23qScbpc) |
+| [<img height="80" src="https://toulousedataviz.github.io/presentation/image/Logo_TDV_4.png" style="border:0;box-shadow:none">](http://toulouse-dataviz.fr) | [<img height="80" src="https://toulousedataviz.github.io/presentation/image/bluesky.png" style="border:0;box-shadow:none">](@toulousedataviz.bsky.social) | [<img height="80" src="https://toulousedataviz.github.io/presentation/image/meetup.png" style="border:0;box-shadow:none">](https://www.meetup.com/fr-FR/Meetup-Visualisation-des-donnees-Toulouse/) | [<img height="80" src="https://toulousedataviz.github.io/presentation/image/youtube.jpg" style="border:0;box-shadow:none">](https://www.youtube.com/channel/UCo64gnxLZs1xIN-Y0Bv_Hpg/about) | [<img height="80" src="https://toulousedataviz.github.io/presentation/image/Discord-Logo-Color.png" style="border:0;box-shadow:none">](https://discord.gg/Ch23qScbpc) |
 
 
