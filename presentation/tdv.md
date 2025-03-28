@@ -70,8 +70,9 @@ Concours HACKAVIZ
 - Evénements (Présentations / Vidéos / photos)
 - [Guide de la datavisualisation](https://toulouse-dataviz.notion.site/4cea244c76d0407b9722d300e798a3c2?v=f3b7a520de214623a766a5b68456097b)
 - [Newsletters](https://ressources.toulouse-dataviz.fr/)
-- Ressources (livres / sélections de dataviz)
+- [Exposition DATAGRAFF 2025](http://exposition.toulouse-dataviz.fr/) 
 - Liens pour nous retrouvez
+- ...
 
   > [toulouse-dataviz.fr](https://toulouse-dataviz.fr)
 
@@ -82,7 +83,7 @@ Concours HACKAVIZ
 
 - Création du meetup : oct 2015
 - Création de Toulouse DataViz : déc 2017
-- Plus de 2000 membres meetup
+- Plus de 2200 membres meetup
 - Plus de 500 clubistes
 - 77 meetup et 48 intervenants exterieurs
 - 8 Hackaviz 
