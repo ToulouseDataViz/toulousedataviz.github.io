@@ -159,8 +159,8 @@ body {
   display: block;
   position: relative;
   width: 80%;
-  margin: 20px auto;
-  font-size: 0.6em;
+  margin: 10px;
+  font-size: 0.5em !important;
   padding: 5px;
   font-style: italic;
 }

@@ -67,14 +67,11 @@ Concours HACKAVIZ
 ---
 ## UN SITE INTERNET 
 
-- Evénements (Présentations / Vidéos / photos)
+- [Evénements](https://toulouse-dataviz.fr/evenements) (Présentations, vidéos, photos)
 - [Guide de la datavisualisation](https://toulouse-dataviz.notion.site/4cea244c76d0407b9722d300e798a3c2?v=f3b7a520de214623a766a5b68456097b)
 - [Newsletters](https://ressources.toulouse-dataviz.fr/)
 - [Exposition DATAGRAFF 2025](http://exposition.toulouse-dataviz.fr/) 
-- Liens pour nous retrouvez
-- ...
-
-  > [toulouse-dataviz.fr](https://toulouse-dataviz.fr)
+    > [toulouse-dataviz.fr](https://toulouse-dataviz.fr)
 
 ---
 
@@ -83,10 +80,10 @@ Concours HACKAVIZ
 
 - Création du meetup : oct 2015
 - Création de Toulouse DataViz : déc 2017
-- Plus de 2200 membres meetup
-- Plus de 500 clubistes
-- 77 meetup et 48 intervenants exterieurs
-- 8 Hackaviz 
+- Plus de 2200 membres meetup, 500 clubistes
+- 40 newsletters
+- 80 meetup et 48 intervenants extérieurs
+- 8 Hackaviz depuis 2018
 
 ---
 
@@ -94,12 +91,10 @@ Concours HACKAVIZ
 
 On aime bien:
 
-- JavaScript, ObservableHQ,  D3.js
-- Python, Jupyter
-- R
-- QGIS
-- Excel, Tableau
-- Illustrator, inkspace
+- JavaScript, ObservableHQ, D3.js
+- Python, Jupyter, R, QGIS
+- LibreOffice, Excel, Tableau
+- Illustrator, Inkspace
 - et pleins d'autres...
 
 ---
@@ -125,13 +120,15 @@ On aime bien:
 
 ## UN GRAND MERCI A NOS SPONSORS
 
-[<img height="65" src="https://toulousedataviz.github.io/presentation/image/clever-logo-et-baseline-DIAMANT.jpg" style="border:0;box-shadow:none">](https://www.clever-age.com/fr/)
-[<img height="65" src="https://toulousedataviz.github.io/presentation/image/vectorInformatikGmbH_logo.svg" style="border:0;box-shadow:none">](https://www.vector.com/fr/fr/)
 
-[<img height="85" src="https://toulousedataviz.github.io/presentation/image/LOGO PF_Data Office_QUADRI_blanc.png" style="border:0;box-shadow:none">](https://www.pierre-fabre.com/fr)
+[<img height="75" src="https://toulousedataviz.github.io/presentation/image/clever-logo-et-baseline-DIAMANT.jpg" style="border:0;box-shadow:none">](https://www.clever-age.com/fr/) 
+[<img height="35" src="https://toulousedataviz.github.io/presentation/image/vectorInformatikGmbH_logo.svg" style="border:0;box-shadow:none">](https://www.vector.com/fr/fr/) 
 
-[<img height="70" src="https://toulousedataviz.github.io/presentation/image/etincelle.jpeg" style="border:0;box-shadow:none">](http://www.coworking-toulouse.com/)
-[<img height="50" src="https://toulousedataviz.github.io/presentation/image/perceptible.jpg" style="border:0;box-shadow:none">](https://perceptible.fr//)<br>
+
+[<img height="90" src="https://toulousedataviz.github.io/presentation/image/LOGO PF_Data Office_QUADRI_blanc.png" style="border:0;box-shadow:none">](https://www.pierre-fabre.com/fr)
+
+[<img height="25" src="https://toulousedataviz.github.io/presentation/image/perceptible.jpg" style="border:0;box-shadow:none">](https://perceptible.fr/)
+[<img height="65" src="https://toulousedataviz.github.io/presentation/image/etincelle.jpeg" style="border:0;box-shadow:none">](http://www.coworking-toulouse.com/) 
 
 ---
 
