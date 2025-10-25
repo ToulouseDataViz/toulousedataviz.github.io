@@ -17,18 +17,23 @@
 <script>
  function detectDeviceType() {
 const ua = navigator.userAgent || navigator.vendor || window.opera;
+  const isTouch = 'ontouchstart' in window || navigator.maxTouchPoints > 0;
 
-  // 🟢 Detect Android tablets vs phones
+  // Android
   if (/Android/i.test(ua)) {
-    // If "Mobile" appears, it's a phone; otherwise it's likely a tablet
+    // Phones usually have 'Mobile' in UA
     if (/Mobile/i.test(ua)) {
       return 'mobile';
-    } else {
+    } 
+    // Tablets: Android device, touch-enabled, and width > ~600px
+    const screenMin = Math.min(window.screen.width, window.screen.height);
+    if (isTouch && screenMin >= 600) {
       return 'tablet';
     }
+    return 'mobile'; // fallback for small Android devices
   }
 
-  // 🟢 Detect iOS tablets and phones
+  // iOS
   if (/iPad|Tablet|iPod/i.test(ua) || 
       (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)) {
     return 'tablet';
@@ -36,6 +41,10 @@ const ua = navigator.userAgent || navigator.vendor || window.opera;
 
   if (/iPhone/i.test(ua) || /Mobi/i.test(ua)) {
     return 'mobile';
+  }
+
+  // Desktop fallback
+  return 'desktop';
   }
 
   // 🖥️ Fallback: desktop
@@ -84,6 +93,7 @@ const ua = navigator.userAgent || navigator.vendor || window.opera;
 
 </body>
 </html>
+
 
 
 
