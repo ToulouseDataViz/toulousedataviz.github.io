@@ -16,15 +16,31 @@
 
 <script>
  function detectDeviceType() {
-    const ua = navigator.userAgent;
+const ua = navigator.userAgent || navigator.vendor || window.opera;
 
-    if (/Mobi|Android/i.test(ua)) {
+  // 🟢 Detect Android tablets vs phones
+  if (/Android/i.test(ua)) {
+    // If "Mobile" appears, it's a phone; otherwise it's likely a tablet
+    if (/Mobile/i.test(ua)) {
       return 'mobile';
-    } else if (/iPad|Tablet|iPod/i.test(ua) || (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)) {
-      return 'tablet';
     } else {
-      return 'desktop';
+      return 'tablet';
     }
+  }
+
+  // 🟢 Detect iOS tablets and phones
+  if (/iPad|Tablet|iPod/i.test(ua) || 
+      (navigator.platform === 'MacIntel' && navigator.maxTouchPoints > 1)) {
+    return 'tablet';
+  }
+
+  if (/iPhone/i.test(ua) || /Mobi/i.test(ua)) {
+    return 'mobile';
+  }
+
+  // 🖥️ Fallback: desktop
+  return 'desktop';
+};
   }
   function loadContent() {
     var contentDiv = document.getElementById('content');
@@ -68,5 +84,6 @@
 
 </body>
 </html>
+
 
 
