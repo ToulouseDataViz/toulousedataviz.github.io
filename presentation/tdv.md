@@ -46,14 +46,14 @@ Concours HACKAVIZ
 ## HACKAVIZ
 
 - Jeu de données open data original
-- Une création, en solo ou en équipe en 10(14) jours
+- Une création, en solo ou en équipe en une dizaine de jours
 - Grande soirée de remise des prix : Hackaviz party
 
 ---
 
 ## HACKAVIZ
 
-<img width="600" src="https://toulousedataviz.github.io/presentation/image/hackaviz_2018-2025.png" style="border:0;box-shadow:none">
+<img width="600" src="https://toulousedataviz.github.io/presentation/image/synthèse_hackaviz_2026.png" style="border:0;box-shadow:none">
 
 ---
 
@@ -62,7 +62,7 @@ Concours HACKAVIZ
 - Universités et entreprises
   > S'initier à l'analyse et <br/> à la visualisation de données
 - Collèges - Parcours Laïque et Citoyen du CD31
-  > Interventions auprès des collèges depuis 5 ans (18 interventions - 450 collégiens)  
+  > Interventions auprès des collèges depuis 6 ans (19 interventions - 475 collégiens)  
 
 ---
 ## UN SITE INTERNET 
@@ -81,9 +81,9 @@ Concours HACKAVIZ
 - Création du meetup : oct 2015
 - Création de Toulouse DataViz : déc 2017
 - Plus de 2200 membres meetup, 500 clubistes
-- 40 newsletters
-- 80 meetup et 48 intervenants extérieurs
-- 8 Hackaviz depuis 2018
+- 47 newsletters
+- 84 meetup et 51 intervenants extérieurs
+- 9 Hackaviz depuis 2018
 
 ---
 
@@ -95,6 +95,7 @@ On aime bien:
 - Python, Jupyter, R, QGIS
 - LibreOffice, Excel, Tableau
 - Illustrator, Inkspace
+- Les IA 
 - et pleins d'autres...
 
 ---
